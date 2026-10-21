@@ -1,0 +1,3 @@
+.navbar { display: flex; justify-content: center; gap: 24px; padding: 12px; }
+.navbar a { color: #ff85b3; text-decoration: none; font-family: 'Quicksand', sans-serif; font-weight: 600; }
+.navbar a:hover { color: #ffe2ed; }
